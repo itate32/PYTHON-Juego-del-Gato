@@ -1,0 +1,6 @@
+sintaxis.py
+
+base = 5 
+altura = 8
+area = (base * altura) / 2
+print("El área del triángulo con base", base, "y altura", altura, "es:", area)
